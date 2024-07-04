@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-icon {
+    width: 70px;
+    height: 70px;
+    background-image: url(/Assets/1.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    border: 1px solid;
+}
